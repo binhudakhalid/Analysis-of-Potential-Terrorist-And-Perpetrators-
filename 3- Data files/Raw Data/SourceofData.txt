@@ -1,0 +1,5 @@
+The Souce Of the Data for Perpetrators or Potential Terrorist
+
+1. https://data.world/publicsafety/terror-attacks-list
+2. https://data.world/sjhaveri
+3. https://docs.google.com/forms
